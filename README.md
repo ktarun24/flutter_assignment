@@ -1,4 +1,4 @@
-# Movie_tickets
+# MOVIE TICKETS
 
 A new Flutter project.
 
